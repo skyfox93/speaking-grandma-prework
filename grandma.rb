@@ -6,6 +6,7 @@ def speak_to_grandma(words)
   "NO, NOT SINCE 1938!"
 else
   "HUH?! SPEAK UP, SONNY!"
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
